@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment10</string>
+    <string name="add">Add</string>
+    <string name="clear">Clear</string>
+    <string name="fetch">Fetch</string>
+    <string name="add_tags">Add tags</string>
+    <string name="bitmap">Bitmap</string>
+</resources>
